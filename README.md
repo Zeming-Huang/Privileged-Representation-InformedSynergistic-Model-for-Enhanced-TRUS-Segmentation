@@ -8,7 +8,10 @@ Transrectal ultrasound (TRUS) segmentation is clinically important but remains c
 
 ## Framework
 
-![PRISM framework](assets/prism_framework.png)
+<p align="center">
+  <img src="assets/prism_framework.png" alt="PRISM framework" width="100%">
+</p>
+<p align="center"><em>PRISM training and inference framework.</em></p>
 
 ## Overview
 
