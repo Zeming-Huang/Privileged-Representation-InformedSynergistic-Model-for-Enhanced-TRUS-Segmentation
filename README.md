@@ -23,6 +23,10 @@ This repository provides the core PRISM training, evaluation, and public reprodu
 
 Compact reproduction notes are available in [docs/reproducibility.md](docs/reproducibility.md).
 
+External assets for public reproduction are hosted here:
+
+- [PRISM public assets](https://drive.google.com/drive/folders/1HHtXd_TIhhhL1EtGIESXpZqIY_LGxyML?usp=drive_link)
+
 ## License
 
 This repository is released under the **Apache License 2.0**. See [LICENSE](LICENSE) for the full text.
