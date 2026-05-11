@@ -29,5 +29,6 @@ This repo keeps a compact public reproduction path for PRISM.
 
 ## External Assets
 
-- checkpoint package
-- 8-case sample-data package
+The checkpoint package and 8-case sample-data package are available from:
+
+- [PRISM public assets](https://drive.google.com/drive/folders/1HHtXd_TIhhhL1EtGIESXpZqIY_LGxyML?usp=drive_link)
